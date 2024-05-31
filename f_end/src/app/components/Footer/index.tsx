@@ -12,7 +12,7 @@ const Footer = () => {
             className="flex items-center mb-4 sm:mb-0 space-x-3 rtl:space-x-reverse"
           >
             <span className="self-center text-2xl font-semibold whitespace-nowrap dark:text-white">
-              Logo Here.
+              GlamWare
             </span>
           </a>
           <ul className="flex flex-wrap items-center mb-6 text-sm font-medium text-gray-500 sm:mb-0 dark:text-gray-400">
@@ -42,7 +42,7 @@ const Footer = () => {
         <span className="block text-sm text-gray-500 sm:text-center dark:text-gray-400">
           © {year}{" "}
           <a href="#" className="hover:underline">
-            Logo Here™
+            GlamWare™
           </a>{" "}
           All Rights Reserved.
         </span>
