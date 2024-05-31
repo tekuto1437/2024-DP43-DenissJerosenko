@@ -42,7 +42,7 @@ const Header: FC = () => {
           <div className="px-5 xl:px-12 py-6 flex w-full items-center">
             <Link className="text-3xl font-bold font-heading" href="/">
               {/* <!-- <img className="h-9" src="logo.png" alt="logo"> --> */}
-              Logo Here.
+              
             </Link>
             {/* <!-- Nav Links --> */}
             <div className="flex flex-1 items-center max-md:justify-end">

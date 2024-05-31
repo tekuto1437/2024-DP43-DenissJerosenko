@@ -3,7 +3,7 @@ const AboutUsPage = () => {
     <div className="py-10 px-10 lg:px-20 xl:px-60">
       <h1 className="text-3xl font-bold mb-4">About Us</h1>
       <p className="mb-4">
-        Welcome to <span className="font-bold text-pink-500">Logo Here</span>,
+        Welcome to <span className="font-bold text-pink-500">GlamWare</span>,
         where fashion meets quality. We are passionate about providing our
         customers with the latest trends and timeless classics, all crafted with
         attention to detail and superior craftsmanship.
@@ -36,7 +36,7 @@ const AboutUsPage = () => {
       </p>
       <p className="mb-4">
         Thank you for choosing{" "}
-        <span className="font-bold text-pink-500">Logo Here.</span> We are
+        <span className="font-bold text-pink-500">GlamWare.</span> We are
         grateful for your support and look forward to continuing our journey
         together, creating fashion that not only looks good but also makes a
         positive impact.
